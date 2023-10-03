@@ -1,1 +1,1 @@
-go build -a -o websocket-service
+go build -a -o only-one-websocket-service

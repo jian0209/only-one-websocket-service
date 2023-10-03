@@ -1,1 +1,1 @@
-nohup ./websocket >> run.log 2>&1 &
+nohup ./only-one-websocket-service >> run.log 2>&1 &

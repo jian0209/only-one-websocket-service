@@ -1,1 +1,1 @@
-kill `pgrep -f "websocket"`
+kill `pgrep -f "only-one-websocket-service"`
