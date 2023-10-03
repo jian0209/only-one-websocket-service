@@ -1,0 +1,1 @@
+nohup ./websocket >> run.log 2>&1 &
